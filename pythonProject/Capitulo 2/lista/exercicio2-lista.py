@@ -6,6 +6,9 @@ numero3 = (numero // 100) % 10
 numero4 = (numero //10) % 10
 numero5 = numero % 10
 
+# // é usado para realizarmos a divisao inteira, ignorando a parte decimal
+# % é usado para o resto da divisao
+
 print("   ", numero1)
 print("   ", numero2)
 print("   ", numero3)
