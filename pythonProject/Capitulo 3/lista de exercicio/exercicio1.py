@@ -1,5 +1,6 @@
-def contatena_texto(texto1, texto2):
-    texto_inteiro = texto1 + texto2
+def justify_direita(stringQualquer):
+    setentaEspacos="          "
+    print(setentaEspacos * 7 + stringQualquer )
 
-    texto1 =                                                                       ,
-
+stringQualquer = 'Gaby'
+justify_direita(stringQualquer)
