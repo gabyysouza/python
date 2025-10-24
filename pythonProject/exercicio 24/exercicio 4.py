@@ -2,7 +2,7 @@ maior = None
 menor = None
 
 for i in range(10):
-    num = int(input(f"Digite o {i + 1}º número positivo: "))
+    num = int(input(f"Digite o {i + 1} número positivo: "))
 
     if num <= 0:
         print("Por favor, digite apenas números inteiros positivos.")
